@@ -1,4 +1,5 @@
 {
+   "CATEGORY": {
     "CATEGORY_NUMBER_1": {
         "1A": {
             "STYLE_GUIDE": "SHBF 2020",
@@ -1864,4 +1865,5 @@
          }
 
     }
+   }
 }
