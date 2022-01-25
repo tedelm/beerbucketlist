@@ -33,7 +33,8 @@ BeerBucketList
             "FRUIT_ESTERS": "<int><0-10>",
             "ALCOHOL_TASTE": "<int><0-10>",
             "YEAST_TYPE": "<string><Recommended strain>",
-            "CO2": "<int><0-10>",            
+            "CO2": "<int><0-10>",
+            "CLARITY": "<int><0-10>",         
             "NOTES": "<string>",
             "PROFILE": "<string>",
             "EXAMPLES": "<string>"
